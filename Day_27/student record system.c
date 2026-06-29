@@ -76,7 +76,7 @@ int main(){
                     printf("student's age : "); scanf(" %d",&s[i].std_age); 
                     printf("student's Roll number : "); scanf(" %d",&s[i].std_rollnum);  
                     printf("student's contact  number : "); scanf("%s",s[i].std_contact);  
-                    printf("student's marks : "); scanf(" %f",&s[i].std_marks);
+                    printf("student's marks :  "); scanf(" %f",&s[i].std_marks);
                     f=1;
                     break;
                 }
